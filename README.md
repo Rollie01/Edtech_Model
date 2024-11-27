@@ -177,4 +177,4 @@ VALUES
 
 ## limitations
 - Modify the primary key columns of each table created to include the UNSIGNED constraint, ensuring that negative numbers cannot be entered.
-
+- Stay tuned for part two of this project, which will address additional unidentified limitations to further enhance the data integrity of this database.
